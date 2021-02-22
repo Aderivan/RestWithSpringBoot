@@ -1,0 +1,4 @@
+mvn clean packake springboot:run
+
+mvn flyway:migrate
+
